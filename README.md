@@ -4,6 +4,8 @@ I'm a Nigerian 🇳🇬 student living in Finland 🇫🇮, studying **Chemical 
 
 Before engineering, I spent a year studying Software Engineering. That's where I first learned to code and started building websites and trying out AI-assisted coding. Now I want to bring the two together and use programming to work on real engineering problems.
 
+🌐 **Portfolio:** [ibk-web.github.io](https://ibk-web.github.io)
+
 ---
 
 ### 🎓 Education
